@@ -38,7 +38,7 @@ body {
 /* Contenedor principal de la invitación */
 .invitacion {
   max-width: 400px; /* Ancho máximo */
-  background-color: #ffffff; /* Fondo blanco */
+  background-color: #fffedc; /* Fondo blanco */
   padding: 20px; /* Relleno interior */
   border-radius: 20px; /* Bordes redondeados */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
@@ -56,13 +56,13 @@ body {
 /* Frase y datos */
 .frase, .fecha, .hora, .lugar {
   margin: 10px 0; /* Espaciado vertical */
-  font-size: 17px; /* Tamaño de texto */
+  font-size: 20px; /* Tamaño de texto */
 }
 
 /* Título principal */
 h1 {
-  font-size: 32px; /* Tamaño grande */
-  color: #278fff; /* Rosa fuerte */
+  font-size: 36px; /* Tamaño grande */
+  color: #ff4488; /* Rosa fuerte */
   margin-bottom: 15px; /* Espacio inferior */
 }
 
@@ -158,7 +158,7 @@ h1 {
 .contador-encima #cuenta-regresiva {
   font-size: 20px;
   font-weight: bold;
-  color: #278fff;
+  color: #ff4488;
 }
 
 
